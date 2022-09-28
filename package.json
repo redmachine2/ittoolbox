@@ -1,11 +1,10 @@
 {
-  "name": "vite-electron-builder",
-  "description": "Secure boilerplate for Electron app based on Vite",
+  "name": "reds-it-toolbox",
+  "description": "Tools for a developer",
   "private": true,
   "author": {
-    "email": "kozackunisoft@gmail.com",
-    "name": "Alex Kozack",
-    "url": "https://kozack.me"
+    "email": "jlynn911@gmail.com",
+    "name": "Jason Lynn"
   },
   "main": "packages/main/dist/index.cjs",
   "scripts": {
